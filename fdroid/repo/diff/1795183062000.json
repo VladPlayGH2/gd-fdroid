@@ -1,1 +1,1 @@
-{"repo": {"timestamp": 1795183156000}}
+{"repo": {"mirrors": [{"isPrimary": true, "url": "https://vladplaygh2.github.io/gd-fdroid/fdroid/repo"}, {"url": "https://gd-fdroid.vladplay.workers.dev/fdroid/repo"}], "timestamp": 1795189903000}}
